@@ -22,23 +22,7 @@
 
 
 
-```text
 
-yandex-disk-api-tests/
-
-├── tests/
-
-│   └── test\_yandex\_disk.py
-
-├── conftest.py
-
-├── config.py
-
-├── requirements.txt
-
-└── README.md
-
-```
 
 
 
